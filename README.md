@@ -10,6 +10,10 @@
 
 ---
 
+🎯 **[👉 Live Demo – Try It Now!](https://474a94a5886fc9c5b2.gradio.live/)**  
+
+---
+
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![Gradio](https://img.shields.io/badge/Gradio-App-green?logo=gradio)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
